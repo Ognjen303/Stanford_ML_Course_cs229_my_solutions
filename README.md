@@ -3,7 +3,7 @@ From Dec 2021 to Sep 2022 I took the extended summer version of Stanford course 
 
 Note that this repo is not affiliated with Stanford or Coursera.
 
-Citations:
+# Citations
 
 Dr. Wu @learning511 "CS229 Machine Learning Assignments in Python" (2018) https://github.com/learning511/cs229-assignments (accessed 2022)
 
