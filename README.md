@@ -1,7 +1,7 @@
 # Stanford ML cs229 My Solutions
-From Dec 2021 to Sep 2022 I took the extended summer version of Stanford course cs229 Introduction to ML. These are my problem solutions in python.
+From Dec 2021 to Sep 2022 I took the extended summer edition 2019 of [Stanford course](https://cs229.stanford.edu/syllabus-summer2019.html) cs229 Introduction to ML. These are my problem solutions in python.
 
-Note that this repo is not affiliated with Stanford or Coursera.
+Note that this repo is not affiliated with Stanford or Coursera. If anyone from Stanford or Coursera staff has a problem with the existance with this repo, please let me know.
 
 # Citations
 
